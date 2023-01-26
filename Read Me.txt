@@ -1,0 +1,4 @@
+Requirements:
+
+* Microsoft Visual .net Framework 4.7.2+
+* AutoCad 2018+
